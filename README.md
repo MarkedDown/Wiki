@@ -17,7 +17,7 @@ and thus they inevitably become a mess.
 Relative links to for example images don't work <br>
 on wiki pages, this means you will end up with <br>
 markdown cluttered full of long absolute links.
-    
+
 #### Contributing
 
 Wikis have a separate version history <br>
@@ -29,14 +29,20 @@ as you would to a normal repository.
 
 ## Alternative
 
+<br>
+
 #### Recommended
 
 Simply create a  `/Documentation/`  folder.
+
+<br>
 
 #### Branches
 
 If you want to separate the documentation completely <br>
 you may want to create a `Documentation` branch.
+
+<br>
 
 #### Enterprise
 
